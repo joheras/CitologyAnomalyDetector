@@ -1,4 +1,4 @@
-# Citology Anomaly Detector
+# Cytology Anomaly Detector
 
 Install with `pip install CitologyAnomalyDetector`.
 
